@@ -231,7 +231,7 @@ span {
 }
 
 .services-container .services-box:hover {
-    border-color: var(--main-color);
+    border-color: #ffa300;
     transform: scale(1.02);
 }
 .services-box i {
